@@ -1,0 +1,6 @@
+# Pinned compatible versions verified on Windows with Python 3.14
+streamlit==1.61.0
+pandas==3.0.5
+numpy==2.5.1
+plotly==7.1.0
+pytest==9.1.1

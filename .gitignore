@@ -1,0 +1,33 @@
+# Python Bytecode and Caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Streamlit Local Configuration
+.streamlit/
+
+# Local Generated Telemetry Data and Logs
+data/*.csv
+data/events/*.csv
+*.log
+
+# Keep data folder structure
+!data/.gitkeep
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets & Environment Variables
+.env
+*.secret
